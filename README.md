@@ -63,8 +63,8 @@
        table, th, td {
     border: 1px solid white;
     text-align: center;
-    color: black; /* Сделает текст в таблице черным */
-    background-color: white; /* Сделает фон таблицы белым */
+    color: white; /* Сделает текст в таблице черным */
+    background-color: black; /* Сделает фон таблицы белым */
        }
         th {
             background: rgba(0, 115, 230, 0.8);
