@@ -66,11 +66,12 @@
             opacity: 0;
             animation: fadeIn 2s forwards;
         }
-        table, th, td {
-            border: 1px solid white;
-            text-align: center;
-            color: black;
-        }
+       table, th, td {
+    border: 1px solid white;
+    text-align: center;
+    color: black; /* Сделает текст в таблице черным */
+    background-color: white; /* Сделает фон таблицы белым */
+       }
         th {
             background: rgba(0, 115, 230, 0.8);
         }
