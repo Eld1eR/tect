@@ -7,14 +7,8 @@
     <style>
         /* Основные стили */
         body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background: url('https://www.teahub.io/photos/full/17-178175_carbon-fiber-wallpaper-hd.jpg') no-repeat center center fixed;
-            background-size: cover;
-            color: white;
-            transition: background-color 0.5s ease;
-        }
+  background-image: url('https://bgfons.com/uploads/carbon/carbon_texture1880.jpg');
+}
         header {
             background: rgba(0, 0, 0, 0.8);
             padding: 20px;
