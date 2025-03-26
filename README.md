@@ -7,7 +7,7 @@
     <style>
         /* Основные стили */
         body {
-  background-image: url('https://seamless.ucoz.net/_ph/41/2/255447288.png');
+  background-image: url('https://png.pngtree.com/background/20250120/original/pngtree-seamless-square-tiles-a-white-mosaic-texture-for-a-captivating-abstract-picture-image_13425566.jpg');
 }
         header {
             background: rgba(0, 0, 0, 0.8);
