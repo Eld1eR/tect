@@ -7,6 +7,7 @@
         /* Основные стили */
         body {
   background-image: url('https://png.pngtree.com/background/20250120/original/pngtree-seamless-square-tiles-a-white-mosaic-texture-for-a-captivating-abstract-picture-image_13425566.jpg');
+            color: white; /* Сделал основной текст белым */
 }
         header {
             background: rgba(0, 0, 0, 0.8);
