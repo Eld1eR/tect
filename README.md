@@ -7,7 +7,7 @@
     <style>
         /* Основные стили */
         body {
-  background-image: url('https://bgfons.com/uploads/carbon/carbon_texture1880.jpg');
+  background-image: url('https://seamless.ucoz.net/_ph/41/2/255447288.png');
 }
         header {
             background: rgba(0, 0, 0, 0.8);
