@@ -37,7 +37,7 @@
         }
         nav a:hover {
             background: white;
-            color: black;
+            color: white;
             transform: scale(1.1);
         }
         .container {
